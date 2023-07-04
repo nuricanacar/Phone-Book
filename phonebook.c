@@ -23,7 +23,7 @@ int main(){
 	int a = 0, b = 0;
 	char dizi[30][4][30];
 	int c2, opr;
-	node1 = create_node("NuriCan","Acar","05462284660","kanarya_nurican@hotmail.com");
+	node1 = create_node("NuriCan","Acar","05923323324","kanarya_nurican@hotmail.com");
 	llist_t *node2 = create_node("Necati","Akar","05922284660","n_akar@gmail.com");
 	llist_t *node3 = create_node("Ayse","Yilmaz","05992284660","ayseyilmaz34@outlook.com");
 	llist_t *node4 = create_node("Muzaffer","Korkmaz","05894835436","m_krkmz@gmail.com");
